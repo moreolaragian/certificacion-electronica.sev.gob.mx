@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+certificacion-electronica.sev.gob.mx	TRUE	/	FALSE	1999999999	ISAWPLB{4B89370D-8576-4BB2-B1B0-C58C937B5BEC}	{418C6DE9-28A0-43EC-8308-4DDB4E777272}
+certificacion-electronica.sev.gob.mx	TRUE	/	FALSE	1999999999	ISAWPLB{5021C865-E0FD-4891-8712-67830504543F}	{D514FA99-1F23-4B29-89B1-6B41BE23D34B}
+

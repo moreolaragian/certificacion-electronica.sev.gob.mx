@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:34:05	36076/36076	---M--	200	added ('OK')	text/html	date:Wed,%2026%20Nov%202025%2000:34:10%20GMT	https://certificacion-electronica.sev.gob.mx/scripts/aplicacion/plantillas/Calificaciones.aspx?folio=CE302223602+&nivel=5+&cicloEscolar=2022-2022&id=1002018	certificacion-electronica.sev.gob.mx/scripts/aplicacion/plantillas/Calificacionesf7a5.html	(from )
+18:34:07	1245/1245	---M--	404	error ('Not%20Found')	text/html	date:Wed,%2026%20Nov%202025%2000:34:10%20GMT	https://certificacion-electronica.sev.gob.mx/robots.txt		(from )
